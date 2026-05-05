@@ -1,0 +1,16 @@
+biopython
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+xgboost
+lightgbm
+openpyxl
+tqdm
+joblib
+plotly
+pyarrow
+shap
+ipykernel
