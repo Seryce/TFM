@@ -98,6 +98,9 @@
 | BA.4/5+ → Post-2023 | 0,81 |
 | **Media** | **0,80** |
 
+
+COMPARACIÓN: ALPHA(1.1.7)-(B1-2...)
+
 "Lo más relevante: el AUC no colapsa en la transición a Omicron, el mayor salto evolutivo de la pandemia. Esto indica que el modelo captura señales de selección positiva que trascienden la identidad de la variante concreta."
 
 **Pregunta probable: "¿Cómo se compara con otros trabajos?"**
