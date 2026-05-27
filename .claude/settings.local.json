@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(Out-File -FilePath \"C:\\\\Users\\\\sergi\\\\OneDrive\\\\Escritorio\\\\TFMgithub\\\\nb_cells.txt\" -Encoding utf8)",
+      "Bash(Get-Content \"C:\\\\Users\\\\sergi\\\\OneDrive\\\\Escritorio\\\\TFMgithub\\\\nb_cells.txt\")"
+    ]
+  }
+}
