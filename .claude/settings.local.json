@@ -3,7 +3,10 @@
     "allow": [
       "Bash(python -c ' *)",
       "Bash(Out-File -FilePath \"C:\\\\Users\\\\sergi\\\\OneDrive\\\\Escritorio\\\\TFMgithub\\\\nb_cells.txt\" -Encoding utf8)",
-      "Bash(Get-Content \"C:\\\\Users\\\\sergi\\\\OneDrive\\\\Escritorio\\\\TFMgithub\\\\nb_cells.txt\")"
+      "Bash(Get-Content \"C:\\\\Users\\\\sergi\\\\OneDrive\\\\Escritorio\\\\TFMgithub\\\\nb_cells.txt\")",
+      "Bash(curl -s \"https://api.crossref.org/works?query.bibliographic=Modeling+the+emergence+of+divergent+mutants+of+SARS-CoV-2+Omicron-like+events+time-to-event+analysis&rows=1\")",
+      "Read(//c/Users/sergi/AppData/Local/Temp/claude/c--Users-sergi-OneDrive-Escritorio-TFMgithub/caf6db8a-484b-4739-a510-2ae2f95c31b4/scratchpad/**)",
+      "WebFetch(domain:www.ncbi.nlm.nih.gov)"
     ]
   }
 }
