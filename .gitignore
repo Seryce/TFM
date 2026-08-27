@@ -4,6 +4,7 @@ data/
 tfm_output/
 .claude/
 *.docx
+!MemoriaTFM_2.docx
 *.pptx
 *.pdf
 !MemoriaTFM_2.pdf
