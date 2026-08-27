@@ -1,1 +1,10 @@
 tfm_data/
+.venv/
+data/
+tfm_output/
+.claude/
+*.docx
+*.pptx
+*.pdf
+!MemoriaTFM_2.pdf
+TFMh.ipynb
