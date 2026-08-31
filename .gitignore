@@ -4,8 +4,8 @@ data/
 tfm_output/
 .claude/
 *.docx
-!MemoriaTFM_2.docx
+!MemoriaTFM_3.docx
 *.pptx
 *.pdf
-!MemoriaTFM_2.pdf
+!MemoriaTFM_3.pdf
 TFMh.ipynb
