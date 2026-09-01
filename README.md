@@ -1,4 +1,4 @@
-# Predicción temprana de variantes de SARS-CoV-2 a partir de haplotipos minoritarios (UDS/CDH)
+# Predicción de la expansión de variantes de SARS-CoV-2 en la población mediante Aprendizaje Automático
 
 Trabajo de Fin de Máster (TFM) que explora si los **haplotipos discordantes de clado** (CDH, antes referidos como UDS) detectados en secuenciación de alta profundidad anticipan qué mutaciones y familias Pango de SARS-CoV-2 van a crecer en las semanas siguientes, y cuánto tardarían en dominar globalmente.
 
