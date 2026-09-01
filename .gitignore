@@ -4,8 +4,8 @@ data/
 tfm_output/
 .claude/
 *.docx
-!MemoriaTFM_3.docx
+!TFM_SergioLópezGonzálezdelRey.docx
 *.pptx
 *.pdf
-!MemoriaTFM_3.pdf
+!TFM_SergioLópezGonzálezdelRey.pdf
 TFMh.ipynb
