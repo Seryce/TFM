@@ -19,7 +19,7 @@ El sistema se evalúa a tres niveles de granularidad (mutación individual, fami
 TFMi.ipynb                 Notebook principal (análisis, modelos, resultados)
 run_streaming_standalone.py  Script auxiliar para el streaming de metadatos GISAID
                               (evita problemas de memoria dentro del notebook/IDE)
-MemoriaTFM_2.docx/.pdf      Memoria del TFM
+TFM_SergioLópezGonzálezdelRey.docx/.pdf  Memoria del TFM
 tfm_output/                 Figuras generadas por el notebook
 tfm_data/                   Acumuladores intermedios de streaming (no versionado)
 data/                       Datos de entrada (GISAID, FASTA) — no incluidos, ver abajo
@@ -60,7 +60,7 @@ El benchmark frente a regresión logística, random forest y gradient boosting c
 
 ## Memoria
 
-El desarrollo completo (marco teórico, metodología, resultados, discusión y limitaciones) está en `MemoriaTFM_2.pdf`.
+El desarrollo completo (marco teórico, metodología, resultados, discusión y limitaciones) está en [`TFM_SergioLópezGonzálezdelRey.pdf`](TFM_SergioLópezGonzálezdelRey.pdf).
 
 ## Contexto académico
 

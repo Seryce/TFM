@@ -1,7 +1,6 @@
 tfm_data/
 .venv/
 data/
-tfm_output/
 .claude/
 *.docx
 !TFM_SergioLópezGonzálezdelRey.docx
